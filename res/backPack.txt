@@ -1,0 +1,7 @@
+coin
+110
+drug
+9
+silkBag
+1
+
